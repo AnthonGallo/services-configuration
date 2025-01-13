@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: alicuotas-microservice
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    database-platform: org.hibernate.dialect.MySQLDialect
+    show-sql: false
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/alicuotasdb-prod
+    username: root
+    password:
+
+
+server:
+  port: 0
