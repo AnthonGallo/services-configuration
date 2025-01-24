@@ -8,4 +8,4 @@ spring:
     show-sql: true
 
 app:
-  testProp: "Prueba actualizada en DEV"
+  testProp: "Segunda prueba actualizada en DEV"
