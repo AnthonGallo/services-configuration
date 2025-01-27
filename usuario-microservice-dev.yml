@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: usuario-microservice
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+app:
+  testProp: "Primera prueba actualizada en DEV"

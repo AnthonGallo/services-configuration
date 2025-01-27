@@ -1,6 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb://localhost:27017/vehicledb
-app:
-  testProp: "Primera prueba actualizada en DEV"
