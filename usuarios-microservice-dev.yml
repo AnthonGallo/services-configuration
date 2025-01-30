@@ -4,8 +4,7 @@ spring:
 
   jpa:
     hibernate:
-    ddl-auto: update
-    show-sql: true
+      ddl-auto: update
 
 app:
-  testProp: "Primera prueba actualizada en DEV"
+  testProp: "Segunda prueba actualizada en DEV"

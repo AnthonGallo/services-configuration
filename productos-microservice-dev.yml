@@ -1,6 +1,6 @@
 spring:
   application:
-    name: usuario-microservice
+    name: productos-microservice
 
   jpa:
     hibernate:
