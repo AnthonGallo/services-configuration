@@ -1,0 +1,9 @@
+{
+  "spring": {
+    "data": {
+      "mongodb": {
+        "uri": "mongodb://admin:secretpassword@localhost:27020/pedidodb"
+      }
+    }
+  }
+}
