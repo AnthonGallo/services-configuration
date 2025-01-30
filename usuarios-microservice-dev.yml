@@ -1,6 +1,6 @@
 spring:
   application:
-    name: alicuotas-microservice
+    name: usuarios-microservice
 
   jpa:
     hibernate:
@@ -8,4 +8,4 @@ spring:
     show-sql: true
 
 app:
-  testProp: "Segunda prueba actualizada en DEV"
+  testProp: "Primera prueba actualizada en DEV"
