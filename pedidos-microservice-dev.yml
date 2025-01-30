@@ -4,3 +4,4 @@ spring:
 
 app:
   testProp: "Cuarta prueba actualizada en DEV."
+
