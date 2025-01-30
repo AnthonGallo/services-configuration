@@ -3,4 +3,4 @@ spring:
     name: pedidos-microservice
 
 app:
-  testProp: "Quinto prueba actualizada en DEV."
+  testProp: "Quinta prueba actualizada en DEV."
