@@ -1,6 +1,10 @@
 {
-  "mongodb": {
-    "uri": "mongodb://localhost:27020/pedidodb",
-    "username": "user",
-    "password": "password"}
+  "spring.cloud.vault.uri": "http://localhost:8200",
+  "spring.cloud.vault.authentication": "token",
+  "spring.cloud.vault.token": "anthonGalloToken",
+  "spring.cloud.vault.application-name": "pedidos-microservice",
+  "spring.cloud.vault.ssl.verification-mode": "NONE",
+  "spring.cloud.config.uri": "http://localhost:8888",
+  "spring.cloud.config.profile": "dev",
+  "spring.cloud.config.label": "master"
 }
