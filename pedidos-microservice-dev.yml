@@ -2,9 +2,5 @@ spring:
   application:
     name: pedidos-microservice
 
-  data:
-    mongodb:
-      uri: mongodb://localhost:27020/pedidodb
-
-server:
-  port: 0
+app:
+  testProp: "Primera prueba actualizada en DEV."
