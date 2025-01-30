@@ -1,5 +1,6 @@
 {
-  "data": {
-    "mongodb-uri": "mongodb://admin:secretpassword@localhost:27020/pedidodb"
-  }
+  "mongodb": {
+    "uri": "mongodb://localhost:27020/pedidodb",
+    "username": "user",
+    "password": "password"}
 }
