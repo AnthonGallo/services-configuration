@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: pedidos-microservice
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/pedidodb
+
+server:
+  port: 0
